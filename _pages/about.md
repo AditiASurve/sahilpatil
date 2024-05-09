@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th Year PhD Economics student at Washington State University.
+I am a 5th Year PhD Economics student at Washington State University currently on the job market looking for industry positions including but not limited to Data Scientist, Decision Scientist, and Economist.
 
 My primary research interests are in Applied Microeconomics, with a focus on causal inference and Machine Learning. I have also worked in labor economics, algorithmic collusion and public economics. I was awarded the [Stromsdorfer, Ernest W. Scholarship and Research Endowment](https://alumni.cahnrs.wsu.edu/stromsdorfer-ernest-w-scholarship-and-research-endowment/) in Fall 2023 and won 3rd place in the [GPSA Research Exposition](https://gpsa.wsu.edu/programs-events/research-expo/awardees/) in Spring 2024. 
 

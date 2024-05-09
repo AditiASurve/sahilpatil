@@ -1,7 +1,7 @@
 ---
-title: "Southern Economic Association Meetings: Economics of Gender IV: A Kick Or A Start?"
+title: "Southern Economic Association Meetings 2023: Economics of Gender IV: A Kick Or A Start?"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference"
 permalink: /talks/2023-11-20-conference
 venue: "New Orleans Marriott, General Studio 9"
 date: 2023-11-20
