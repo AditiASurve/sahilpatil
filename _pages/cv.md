@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Econometrics and Quantitative Economics, Washington State University, Expected 2024
+  * Supervisor: [Dr. Wesley Blundell](https://www.wesleyblundell.com/)
+* M.S. in Statistics, Washington State University, May 2024
+  * Supervisor: [Dr. Daryl Deford](https://www.math.wsu.edu/faculty/ddeford/)
+* B.S. in Economics, Arizona State University, May 2019
+  * Minor in Statistics
 
 Work experience
 ======
